@@ -6,7 +6,7 @@
   <br>
   I turn ideas into software products.
   <br>
-  <img src="https://komarev.com/ghpvc/?username=jeremyalv&label=People%20visit%20this%20profile&color=blueviolet&style=plastic&label=PROFILE+VIEWS" alt="Github profile visit" />
+<!--   <img src="https://komarev.com/ghpvc/?username=jeremyalv&label=People%20visit%20this%20profile&color=blueviolet&style=plastic&label=PROFILE+VIEWS" alt="Github profile visit" /> -->
 </h1>
 
 
