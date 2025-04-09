@@ -17,9 +17,6 @@
   <a href="https://linkedin.com/in/jeremy-alva">
     <img src="https://img.shields.io/badge/jeremy_alva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a/>
-  <a href="https://twitter.com/jeremyalvax">
-    <img src="https://img.shields.io/badge/@jeremyalvax-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  <a/>
 </p>
 
 ---    
